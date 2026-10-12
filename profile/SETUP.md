@@ -15,6 +15,6 @@ Suggested pins:
 2. manage-dealership-platform
 3. brand-guide-hedax
 
-Do not label the Source website as live until public DNS, TLS and acceptance checks pass. No profile photo, contact field, repository visibility or branch protection setting has been changed as part of this draft.
+Public DNS and TLS for the Source website were confirmed on 12 October 2026; do not describe it as open for orders until SMS sign-in, payment and the other acceptance checks pass. No profile photo, contact field, repository visibility or branch protection setting has been changed as part of this draft.
 
 Reference: [GitHub — Managing your profile README](https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme).
