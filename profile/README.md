@@ -15,7 +15,7 @@
 
 | Project | Focus | Status |
 | --- | --- | --- |
-| [Source by HEDAX](https://github.com/ali-hedax/source-auto-parts-platform) | Bilingual auto parts commerce and custom sourcing | Pre-launch; core server services running, public activation pending |
+| [Source by HEDAX](https://github.com/ali-hedax/source-auto-parts-platform) | Bilingual auto parts commerce and custom sourcing | Pre-launch: public site online at [sourcebyhedax.ir](https://sourcebyhedax.ir/fa); SMS sign-in and payment not yet connected |
 | [Dealership platform](https://github.com/ali-hedax/manage-dealership-platform) | Inventory and dealership operations analytics | Prototype |
 | [HEDAX brand guide](https://github.com/ali-hedax/brand-guide-hedax) | Brand identity and visual/verbal standards | Brand guide v2.0 |
 
