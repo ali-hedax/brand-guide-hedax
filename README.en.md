@@ -18,21 +18,22 @@ The existing [Persian brand guide v2.0](HEDAX-Brand-Guide-FA.pdf) covers brand f
 
 Typography: Vazirmatn for Persian and Montserrat for English. Use the PDF for exact logo and layout rules.
 
-## Project directory
+## Products
 
-| Repository | Purpose |
-| --- | --- |
-| [Source by HEDAX](https://github.com/ali-hedax/source-auto-parts-platform) | Persian/English auto parts commerce and custom sourcing; pre-launch |
-| [Dealership platform](https://github.com/ali-hedax/manage-dealership-platform) | Dealership operations and inventory analytics prototype |
-| [Brand guide](https://github.com/ali-hedax/brand-guide-hedax) | Shared identity reference |
+| Product | Purpose | Status |
+| --- | --- | --- |
+| [Manage by HEDAX](https://managebyhedax.ir) | Dealership operations platform: from intake to delivery, in full view | First module (accident repair) in testing at an Iran Khodro dealership |
+| [Source by HEDAX](https://sourcebyhedax.ir/fa) | Persian/English auto parts commerce and custom sourcing | Pre-launch |
+
+Both products follow the "X by HEDAX" pattern defined by this guide: a flat wordmark, a blue tab on the first letter and the "by HEDAX" signature.
 
 ## Repository contents
 
-- `HEDAX-Brand-Guide-FA.pdf`: existing official Persian brand guide.
-- `README.md`: Persian brand overview and contact information.
-- `README.en.md`: English entry point and project directory.
-- `profile/README.md`: prepared GitHub profile text; not yet an active profile README.
-- `profile/SETUP.md`: remaining profile setup and account capabilities.
+- `HEDAX-Brand-Guide-FA.pdf`: official Persian brand guide v2.0.
+- `README.md`: Persian overview.
+- `README.en.md`: this English overview.
+
+The GitHub profile lives in [ali-hedax/ali-hedax](https://github.com/ali-hedax/ali-hedax).
 
 ## Maintainer
 

@@ -19,20 +19,21 @@
 
 فونت فارسی: وزیرمتن · فونت انگلیسی: مونتسرات. جزئیات اجرای هویت برند را از PDF بخوانید.
 
-## پروژه‌ها
+## محصولات
 
-| پروژه | هدف | وضعیت |
+| محصول | توضیح | وضعیت |
 | --- | --- | --- |
-| [Source by HEDAX](https://github.com/ali-hedax/source-auto-parts-platform) | فروش قطعات خودرو و تأمین سفارشی، فارسی و انگلیسی | پیش از انتشار عمومی |
-| [پلتفرم نمایندگی](https://github.com/ali-hedax/manage-dealership-platform) | تحلیل موجودی و عملیات نمایندگی | نمونهٔ اولیه |
-| [راهنمای برند](https://github.com/ali-hedax/brand-guide-hedax) | یکپارچگی هویت بصری و کلامی | نسخهٔ ۲٫۰ |
+| [Manage by HEDAX](https://managebyhedax.ir) | سامانهٔ یکپارچهٔ مدیریت عملیات نمایندگی‌های خودرو؛ از پذیرش تا تحویل، با دید روشن | ماژول اول (خودروهای تصادفی) در حال آزمون در یک نمایندگی ایران‌خودرو |
+| [Source by HEDAX](https://sourcebyhedax.ir/fa) | فروش قطعات خودرو و تأمین سفارشی، فارسی و انگلیسی | پیش از انتشار عمومی |
+
+هر دو محصول از الگوی «X by HEDAX» و همین راهنمای برند پیروی می‌کنند: نشان‌نوشتهٔ تخت، زبانهٔ آبی روی حرف اول و امضای «by HEDAX».
 
 ## فایل‌ها
 
 - PDF: سند اصلی راهنمای برند، بدون تغییر.
 - [README.en.md](README.en.md): معرفی انگلیسی.
-- [profile/README.md](profile/README.md): متن آمادهٔ پروفایل GitHub؛ هنوز روی حساب فعال نشده است.
-- [profile/SETUP.md](profile/SETUP.md): مرحلهٔ باقی‌ماندهٔ تنظیم پروفایل.
+
+پروفایل گیت‌هاب در مخزن [ali-hedax/ali-hedax](https://github.com/ali-hedax/ali-hedax) نگهداری می‌شود.
 
 نگهدارنده: [ali-hedax](https://github.com/ali-hedax).
 
