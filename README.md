@@ -23,10 +23,15 @@
 
 | محصول | توضیح | وضعیت |
 | --- | --- | --- |
-| [Manage by HEDAX](https://managebyhedax.ir) | سامانهٔ یکپارچهٔ مدیریت عملیات نمایندگی‌های خودرو؛ از پذیرش تا تحویل، با دید روشن | ماژول اول (خودروهای تصادفی) در حال آزمون در یک نمایندگی ایران‌خودرو |
-| [Source by HEDAX](https://sourcebyhedax.ir/fa) | فروش قطعات خودرو و تأمین سفارشی، فارسی و انگلیسی | پیش از انتشار عمومی |
+| [Manage by HEDAX](https://managebyhedax.ir) | سامانهٔ یکپارچهٔ مدیریت عملیات نمایندگی‌های خودرو؛ از پذیرش تا تحویل، با دید روشن | ماژول اول (خودروهای تصادفی) در حال استفاده در یک نمایندگی ایران‌خودرو |
+| [Source by HEDAX](https://sourcebyhedax.ir/fa) | فروش قطعات خودرو و تأمین سفارشی، فارسی و انگلیسی | پیش از راه‌اندازی فروش؛ سایت در دسترس است |
 
 هر دو محصول از الگوی «X by HEDAX» و همین راهنمای برند پیروی می‌کنند: نشان‌نوشتهٔ تخت، زبانهٔ آبی روی حرف اول و امضای «by HEDAX».
+
+## مخزن‌ها
+
+- [manage-dealership-platform](https://github.com/ali-hedax/manage-dealership-platform): کد و مستندات Manage by HEDAX
+- [source-auto-parts-platform](https://github.com/ali-hedax/source-auto-parts-platform): کد و مستندات Source by HEDAX
 
 ## فایل‌ها
 
