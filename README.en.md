@@ -22,10 +22,15 @@ Typography: Vazirmatn for Persian and Montserrat for English. Use the PDF for ex
 
 | Product | Purpose | Status |
 | --- | --- | --- |
-| [Manage by HEDAX](https://managebyhedax.ir) | Dealership operations platform: from intake to delivery, in full view | First module (accident repair) in testing at an Iran Khodro dealership |
-| [Source by HEDAX](https://sourcebyhedax.ir/fa) | Persian/English auto parts commerce and custom sourcing | Pre-launch |
+| [Manage by HEDAX](https://managebyhedax.ir) | Dealership operations platform: from intake to delivery, in full view | First module (accident repair) in daily use at an Iran Khodro dealership |
+| [Source by HEDAX](https://sourcebyhedax.ir/fa) | Persian/English auto parts commerce and custom sourcing | Pre-launch; the public site is online |
 
 Both products follow the "X by HEDAX" pattern defined by this guide: a flat wordmark, a blue tab on the first letter and the "by HEDAX" signature.
+
+## Repositories
+
+- [manage-dealership-platform](https://github.com/ali-hedax/manage-dealership-platform): Manage by HEDAX code and documentation
+- [source-auto-parts-platform](https://github.com/ali-hedax/source-auto-parts-platform): Source by HEDAX code and documentation
 
 ## Repository contents
 
